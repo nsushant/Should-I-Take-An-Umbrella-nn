@@ -1,2 +1,2 @@
-# Rain-or-not-ML
-Building a weather prediction ML model using data from a weather station.
+# Should-I-Take-An-Umbrella-nn
+Building a weather predicting neural network using data from a weather station.
